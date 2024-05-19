@@ -1,7 +1,5 @@
 # car-inventory-analysis
 
-# Car Inventory Analysis
-
 This repository contains a project for analyzing car inventory data using Microsoft Excel. The project includes importing text files, data manipulation, pivot tables, and chart creation.
 
 ## Table of Contents
